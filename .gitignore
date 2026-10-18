@@ -1,0 +1,14 @@
+venv/
+.env
+__pycache__/
+monitor.db
+*.pyc
+.trae-html-share-packages/
+iteration_before.db
+iteration_after.db
+.DS_Store
+dashboard.html
+tool_call_stats.csv
+failure_stats.csv
+AI_conversation_log.md
+todo.md

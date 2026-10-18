@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "md-kb": {
+      "command": "venv/bin/python",
+      "args": [
+        "mcp_server.py"
+      ],
+      "env": {
+        "MCP_API_KEY": "demo-key-12345",
+        "KB_ROOT": "./sample_notes",
+        "MONITOR_DB": "./monitor.db"
+      }
+    }
+  }
+}
